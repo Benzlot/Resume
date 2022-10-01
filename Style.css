@@ -11,3 +11,16 @@ body{
     color: blue;
     
   }
+  
+
+  .middle-container{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+  }
+
+  .buttom-container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+  }
